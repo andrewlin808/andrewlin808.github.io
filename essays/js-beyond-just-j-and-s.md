@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript: Beyond just "Java" + "Script""
+title: "JavaScript: Beyond just \"Java\" + \"Script\""
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
 published: true
 labels:
   - JavaScript
-
+  - Reflection
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
