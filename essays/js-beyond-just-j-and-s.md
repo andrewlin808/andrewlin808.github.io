@@ -7,7 +7,7 @@ date: 2023-08-31
 published: true
 labels:
   - JavaScript
-  - Reflection
+
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
