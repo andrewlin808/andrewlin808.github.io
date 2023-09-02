@@ -105,10 +105,10 @@ The following is a few pictures of me during my time at FT (Flight photo; Assaul
 
 <div class="text-center p-4">
   <img width="400px" src="../mg/ft-img/ft-img1.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img2.heic" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img3.heic" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img4.heic" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img5.heic" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img2.jpeg" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img3.jpeg" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img4.jpeg" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img5.jpeg" class="img-thumbnail" >
 </div>
 
 <hr>
