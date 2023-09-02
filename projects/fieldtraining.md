@@ -53,11 +53,14 @@ SUBJECT: Field Training Reflection
 ```
 <hr>
 
-The following is a few pictures of me during my time at FT:
+The following is a few pictures of me during my time at FT (Flight photo; Assault Course photos):
 
 <hr>
 
+![](/../img/ft-img/ft-img1.jpg)
+![](/../img/ft-img/ft-img2.HEIC)
+![](/../img/ft-img/ft-img3.HEIC)
+![](/../img/ft-img/ft-img4.HEIC)
+![](/../img/ft-img/ft-img5.HEIC)
 
 <hr>
-
-You can see more about my project's source code [here](https://github.com/andrewlin808/Record-Database).
