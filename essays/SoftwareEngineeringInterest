@@ -9,6 +9,12 @@ labels:
   - Software Engineering
 ---
 
+<div class="text-center p-4">
+  <img width="300px" src="../img/sei-image/sei-img1.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/sei-image/sei-img2.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/sei-image/sei-img3.jpg" class="img-thumbnail" >
+</div>
+
 ## What's Software Engineering?
 
 Even at the time of writing, I still don't have a clear understanding of software engineering, as I am not so much of a reader, but a doer, and doing is something I have not done yet. I do not have much experience in this field other than the classes I have taken; thus, I can appreciate every and anything that I am learning about in software engineering. If anything, I would say my current goal is to feel confident in being competent at something, whether it be coding in a particular language, understanding the software engineering process, or exposed to the full-stack development process.
