@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICS 212 Database Project Image.jpg
+image: img/rpg-images/blueJ-icon.png
 title: "RPG Project"
 date: 2020
 published: true
@@ -16,7 +16,8 @@ As a project for AP Computer Science A, we were to design a role-playing game in
 
 An emphasis was placed on understanding Java inheritance with classes and subclasses. The following image showcases all the classes implemented in the BlueJ project:
 
-![image of BlueJ classes for the RPG project]()
+![image of BlueJ classes for the RPG project](/img/rpg-images/blueJ_img1.png)
 
+The user interface was done solely using the blueJ console. The \"Map\" of the game was a 2D array representation, with a movable character (the player) as the icon 'i'.
 
-You can see more about my project's source code [here](https://github.com/andrewlin808/Record-Database).
+You can see more about my project's source code [here](https://github.com/andrewlin808/).
