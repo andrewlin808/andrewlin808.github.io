@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Cybersecurity" },
-    { "name": "Cyberspace Operations" },
+    { "name": "Software Engineering" },
     { "name": "Offensive/Defensive Cyber Operations" },
     { "name": "Military" },
     { "name": "Networking" }
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -43,24 +43,24 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Air Force Reserve Officer Training Corps Detachment 175",
+      "position": "Flight Director of Instructions",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Supervise and direct training of a flight. Develop Physical Training and Leadership Laboratory macro, Operational Plans and Operational Orders.Ensure that all training objectives are met by cadets in conjunction with Flight Commanders.",
       "highlights": [
         "",
         ""
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Controlpoint Surveying, Inc",
+      "position": "Summer Intern",
+      "website": "https://www.cpshawaii.net/",
+      "startDate": "Jun 2022",
+      "endDate": "Jul 2022",
+      "summary": "Assisted in topographic surveying projects other tasks; utilization of Point Cloud in RiSCAN PRO and Autodesk AutoCAD softwares",
       "highlights": [
         "",
         ""
