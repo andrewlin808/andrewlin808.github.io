@@ -84,4 +84,4 @@ Dole
 ```
 
 
-You can learn more about my project here [source code]: (https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more about my project here [source code]: (https://github.com/andrewlin808/Record-Database).
