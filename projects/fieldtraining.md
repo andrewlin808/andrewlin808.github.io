@@ -104,9 +104,9 @@ The following is a few pictures of me during my time at FT (Flight photo; Assaul
 <hr>
 
 ![](/../img/ft-img/ft-img1.jpg)
-![](/../img/ft-img/ft-img2.HEIC)
-![](/../img/ft-img/ft-img3.HEIC)
-![](/../img/ft-img/ft-img4.HEIC)
-![](/../img/ft-img/ft-img5.HEIC)
+![](/../img/ft-img/ft-img2.heic)
+![](/../img/ft-img/ft-img3.heic)
+![](/../img/ft-img/ft-img4.heic)
+![](/../img/ft-img/ft-img5.heic)
 
 <hr>
