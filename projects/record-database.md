@@ -84,4 +84,4 @@ Dole
 ```
 
 
-You can learn more about my project here [source code]: (https://github.com/andrewlin808/Record-Database).
+You can see more about my project's source code [here](https://github.com/andrewlin808/Record-Database).
