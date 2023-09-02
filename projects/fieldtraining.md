@@ -103,10 +103,12 @@ The following is a few pictures of me during my time at FT (Flight photo; Assaul
 
 <hr>
 
-![](/../img/ft-img/ft-img1.jpg)
-![](/../img/ft-img/ft-img2.heic)
-![](/../img/ft-img/ft-img3.heic)
-![](/../img/ft-img/ft-img4.heic)
-![](/../img/ft-img/ft-img5.heic)
+<div class="text-center p-4">
+  <img width="400px" src="../mg/ft-img/ft-img1.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img2.heic" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img3.heic" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img4.heic" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img5.heic" class="img-thumbnail" >
+</div>
 
 <hr>
