@@ -18,6 +18,12 @@ An emphasis was placed on understanding Java inheritance with classes and subcla
 
 ![image of BlueJ classes for the RPG project](/img/rpg-images/blueJ_img1.png)
 
-The user interface was done solely using the blueJ console. The \"Map\" of the game was a 2D array representation, with a movable character (the player) as the icon 'i'.
+The user interface was done solely using the blueJ console. The \"Map\" of the game was a 2D array representation, with a movable character (the player) as the icon 'i'. Each map is stored in a '.txt.' file, with a couple of prebuild maps that makes up the project's gameplay experience.
+ - The 'Mappable' abstract class defined what objects can be displayed on the map, which included 'Wall' (defined boundries of the map), 'Path' (traversable indices for the player), 'Portal' (special object that will take the player to another map, and entities ('Character', 'NPC', 'Monster','Spirit')
+ - 'GameRunner' is the main class that starts the game in the console
+ - MediaFile is a utility class to load and save the game files and progress
+ - 'Player' can have 'equipment' as 'item' in the game that wiill strengthen the character.
 
-You can see more about my project's source code [here](https://github.com/andrewlin808/).
+The following contains a few images of the game play experience.
+
+Feel free to look at my sources and/or download the files to play the game yourself: [link](https://github.com/andrewlin808/).
