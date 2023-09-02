@@ -16,7 +16,9 @@ As a project for AP Computer Science A, we were to design a role-playing game in
 
 An emphasis was placed on understanding Java inheritance with classes and subclasses. The following image showcases all the classes implemented in the BlueJ project:
 
-![image of BlueJ classes for the RPG project](/img/rpg-img/blueJ_img1.png)
+<img width="800px" 
+     class="rounded float-start pe-4" 
+     src="../img/rpg-img/blueJ_img1.png" >
 
 The user interface was done solely using the blueJ console. The \"Map\" of the game was a 2D array representation, with a movable character (the player) as the icon 'i'. Each map is stored in a '.txt.' file, with a couple of prebuild maps that makes up the project's gameplay experience.
  - The 'Mappable' abstract class defined what objects can be displayed on the map, which included 'Wall' (defined boundries of the map), 'Path' (traversable indices for the player), 'Portal' (special object that will take the player to another map, and entities ('Character', 'NPC', 'Monster','Spirit')
@@ -28,17 +30,25 @@ The user interface was done solely using the blueJ console. The \"Map\" of the g
 
 The following contains a few images of the game play experience:
  - Starting village of the game
-![](/img/rpg-img/blueJ_img2.png)
+<img width="800px" 
+     class="rounded float-start pe-4" 
+     src="../img/rpg-img/blueJ_img2.png" >
  - Player equipping an item ('Equipment')
-![](/img/rpg-img/blueJ_img3.png)
+<img width="800px" 
+     class="rounded float-start pe-4" 
+     src="../img/rpg-img/blueJ_img3.png" >
  - Player Interface in the game to do various actions with the character
-![](/img/rpg-img/blueJ_img4.png)
-
+<img width="800px" 
+     class="rounded float-start pe-4" 
+     src="../img/rpg-img/blueJ_img4.png" >
  - Sample battle with a Green Slime 'Monster'
-![](/img/rpg-img/blueJ_img5.png)
-
+<img width="800px" 
+     class="rounded float-start pe-4" 
+     src="../img/rpg-img/blueJ_img5.png" >
  - Player's data being saved and exiting the game ('PlayerSave.txt')
-![](/img/rpg-img/blueJ_img6.png)
+<img width="800px" 
+     class="rounded float-start pe-4" 
+     src="../img/rpg-img/blueJ_img6.png" >
 
 <hr>
 
