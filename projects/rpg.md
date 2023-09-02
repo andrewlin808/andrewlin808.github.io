@@ -31,23 +31,23 @@ The user interface was done solely using the blueJ console. The \"Map\" of the g
 The following contains a few images of the game play experience:
  - Starting village of the game
 <img width="800px" 
-     class="rounded float-start pe-4" 
+     class="img-fluid" 
      src="../img/rpg-img/blueJ_img2.png" >
  - Player equipping an item ('Equipment')
 <img width="800px" 
-     class="rounded float-start pe-4" 
+     class="img-fluid" 
      src="../img/rpg-img/blueJ_img3.png" >
  - Player Interface in the game to do various actions with the character
 <img width="800px" 
-     class="rounded float-start pe-4" 
+     class="img-fluid" 
      src="../img/rpg-img/blueJ_img4.png" >
  - Sample battle with a Green Slime 'Monster'
 <img width="800px" 
-     class="rounded float-start pe-4" 
+     class="img-fluid" 
      src="../img/rpg-img/blueJ_img5.png" >
  - Player's data being saved and exiting the game ('PlayerSave.txt')
 <img width="800px" 
-     class="rounded float-start pe-4" 
+     class="img-fluid" 
      src="../img/rpg-img/blueJ_img6.png" >
 
 <hr>
