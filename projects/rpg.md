@@ -42,4 +42,4 @@ The following contains a few images of the game play experience:
 
 <hr>
 
-Feel free to look at my sources and/or download the files to play the game yourself: [link](https://github.com/andrewlin808/).
+Feel free to look at my sources and/or download the files to play the game yourself: [link](https://github.com/andrewlin808/rpg).
