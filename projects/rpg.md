@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rpg-images/blueJ-icon.png
+image: img/rpg-img/blueJ-icon.png
 title: "RPG Project"
 date: 2020
 published: true
