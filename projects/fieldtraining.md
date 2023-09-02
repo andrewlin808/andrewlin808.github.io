@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICS 212 Database Project Image.jpg
+image: img/ft-img/propAndWings.png
 title: "Field Training"
 date: 2023
 published: true
