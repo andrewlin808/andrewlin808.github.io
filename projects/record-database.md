@@ -54,8 +54,8 @@ Enter the account name:
 andrew lin
 Enter the account mailing address: (type '!' at the end to indicate the end of the address)
 2555
-Dole  
-98 6822!
+Dole
+96822!
 
 Adding new record to database: 
 
