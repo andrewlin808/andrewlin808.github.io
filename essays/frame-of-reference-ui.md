@@ -32,7 +32,7 @@ The following codes demonstrate the efficiency and simplicity resulting from jus
 
 With using just HTML and CSS, the style.css stylesheet had the following styling for the classes contained in the index.html file:
 
-```angular2html
+```
 body {
   font-family: 'Open Sans', sans-serif;
   color: darkblue;
@@ -84,7 +84,7 @@ img {
 
 In comparison, with Bootstrap 5, the style.css reduces to the following while keeping the HTML nearly identical:
 
-```angular2html
+```
 a.nav-link {
   color: white;
 }
