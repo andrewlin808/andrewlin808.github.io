@@ -11,10 +11,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="250px" class="rounded float pe-4" src="../img/ai/ai-logo.jpg" alt="AI logo">
-
-# AI: the Road Not Much Taken
-
 * [Introduction](#introduction)
 * [Personal Experience with AI](#personal-experience-with-ai)
 * [Impact on Learning and Understanding](#impact-on-learning-and-understanding)
@@ -23,6 +19,8 @@ labels:
 * [Comparative Analysis](#comparative-analysis)
 * [Future Considerations](#future-considerations)
 * [Conclusion](#conclusion)
+
+<img width="250px" class="rounded float-end pe-4" src="../img/ai/ai-logo.jpg" alt="AI logo">
 
 ## Introduction
 
