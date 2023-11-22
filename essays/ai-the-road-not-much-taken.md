@@ -20,7 +20,7 @@ labels:
 * [Future Considerations](#future-considerations)
 * [Conclusion](#conclusion)
 
-<img width="250px" class="rounded float-end pe-4" src="../img/ai/ai-logo.jpg" alt="AI logo">
+<img width="250px" class="rounded float-start pe-4" src="../img/ai/ai-logo.jpg" alt="AI logo">
 
 ## Introduction
 
