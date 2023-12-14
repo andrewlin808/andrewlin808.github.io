@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Standard for Coding Standards"
+title: "Standard on Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
@@ -10,6 +10,8 @@ labels:
   - Coding Standards
   - Software Engineering
 ---
+
+# Standards on Coding Standards
 
 ## Coding without Standards: "wOuLd yoU RaThEr reaDThIs TeXt ; Or read this neatly formatted text?"
 
