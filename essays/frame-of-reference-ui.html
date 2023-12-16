@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Frame of Reference: UI | Andrew Lin | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/andrewlin808.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Andrew Lin | Professional Portfolio">
+    <meta property="og:url" content="https://andrewlin808.github.io/essays/frame-of-reference-ui.html">
+    <meta property="og:title" content="Frame of Reference: UI | Andrew Lin | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/andrewlin808.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Frame of Reference: UI | Andrew Lin | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Andrew Lin</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Frame of Reference: UI</h1>
+  <span class="date">05 Oct 2023</span>
+  <hr>
+  <p><img width="200px" class="rounded float-start pe-4" src="../img/ui-framework/bootstrap-logo.png" alt="bootstrap logo" /></p>
+
+<h2 id="the-introduction-html-and-css">The Introduction: HTML and CSS</h2>
+
+<p>The initial learning of Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) through FreeCodeCamp felt similar to the one done for JavaScript: long, foundational, but necessary. In addition, the BrowserHistory WOD really encapsulates 
+the HTML and CSS experience: using tags and classes to style your website. While basic, it was a necessary foundation to be introduced to UI frameworks in the later week.</p>
+
+<h2 id="ui-framework-and-bootstrap-5">UI Framework and Bootstrap 5</h2>
+
+<p>What is a user interface (UI) Framework? It “provides a set of CSS classes and/or Javascript functions that: (1) simplify the development of layout, (2) provide an attractive look-and-feel, and (3) provide consistent results across browsers.”
+There are many UI Frameworks that exist out there: jQuery, Metro UI, YUI Library, Bootstrap, etc. The Bootstrap 5 framework was taught to me in ICS 314; why? It is a popular, well-designed, and an open-source UI framework. Additionally, it provides
+responsive, mobile-first design as a framework. Bootstrap 5 was my first ever encounter with a UI framework. It fitted nicely in my progressive learning coming from the UI Basics module, where the transition to using Bootstrap 5 in the
+BrowserHistory WOD really showed its advantages.</p>
+
+<h2 id="whats-different-the-code">What’s Different?: The Code</h2>
+
+<p>The following codes demonstrate the efficiency and simplicity resulting from just using HTML and CSS to using the Bootstrap 5 framework:</p>
+
+<p>With using just HTML and CSS, the style.css stylesheet had the following styling for the classes contained in the index.html file:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>body {
+  font-family: 'Open Sans', sans-serif;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color: ivory;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+.column-left {
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.column-right {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.column-center {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  margin: 0 100px 0 100px;
+}
+</code></pre></div></div>
+
+<p>In comparison, with Bootstrap 5, the style.css reduces to the following while keeping the HTML nearly identical:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>a.nav-link {
+  color: white;
+}
+
+h1, h2 {
+  color: royalblue;
+}
+</code></pre></div></div>
+
+<p>The above code snippets showcase my intuitive understanding of the benefits: using a UI framework with HTML and CSS is like using a library while coding in JavaScript. Imagine trying to program in JavaScript without the usage of any of the libraries,
+in particular from experience, the Underscore library: it would be a grueling process and unintuitive coding process. Using Bootstrap is a similar feel, the process of creating the HTML website feels more intuitive and relies more on your 
+understanding of what you are trying to achieve, from which you will simply put the corresponding classes in the correct places, rather than manually coding in each individual CSS styles.</p>
+
+<h2 id="whats-different-the-website">What’s Different: The Website</h2>
+
+<p>In addition to the efficiency and simplicity of the code, the resulting websites also feel and look better:</p>
+
+<p><img width="300px" class="rounded float-start pe-4" src="../img/ui-framework/normal-website.png" alt="HTML Website" />
+<img width="300px" class="rounded float-start pe-4" src="../img/ui-framework/Bootstrap-website.png" alt="Bootstrap Website" /></p>
+
+<p>From the images above, the left shows a website creation with just HTML and CSS, and the right shows one created with Bootstrap; both relate to the aforementioned code snippets. The bootstrap version, in addition to the coding benefits, has a 
+more responsive look when the windows are being resized and adjustments made automatically as necessary. The top navigation bar also has a much cleaner look.</p>
+
+<h2 id="conclusion-whats-different">Conclusion: What’s Different?</h2>
+
+<p>UI Frameworks, given their integration and benefits of efficiency and usability, are an integral part of the software engineering process. Personally, I still have much to learn from using the Bootstrap 5 framework, but also look forward to 
+potentially using other frameworks in the future.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
