@@ -13,4 +13,6 @@ labels:
 summary: "Manoa Marketplace is a web application developed for ICS 314, with the purpose of creating a portal for UHM students to buy/sell student-related goods and services."
 ---
 
-You can head to the [Github Project Page](https://github.com/manoa-market-place) to find out more about the Project
+You can head to the [Github Project Page](https://github.com/manoa-market-place) to find out more about the project.
+
+The [Manoa Marketplace github.io page](https://manoa-market-place.github.io/) provides documentation for the project.

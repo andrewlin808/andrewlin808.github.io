@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-# From Software to Engineering
+<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering.png" alt="bootstrap logo">
 
 ## What's Software Engineering?
 

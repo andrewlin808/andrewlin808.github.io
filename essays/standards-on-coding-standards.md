@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-# Standards on Coding Standards
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png" alt="">
 
 ## Coding without Standards: "wOuLd yoU RaThEr reaDThIs TeXt ; Or read this neatly formatted text?"
 

@@ -15,8 +15,8 @@ summary: "A database project from ICS 212 to store and retrieve banking customer
 
 As a two-part final project for my ICS 212 class, all students, on their own, were to design a program that can store and retrieve banking customer' information through a terminal user interface, using the C (part 1) and C++ (part 2) programming language. Each banking customer have their (1) account number (int), name (char[]), address (char[]), and a pointer (record*) to a next entry stored as a structure called record in C/C++. The C code was later converted to C++ code as we learned about the C++ programming language in class as part 2 of the project.
 
-The follow C code shows the header file for the strcture record that stores banking customer's information:
-```c
+The follow C code shows the header file for the structure record that stores banking customer's information:
+```
 #ifndef RECORD_H
 #define RECORD_H
 
@@ -83,5 +83,7 @@ Dole
 ---End-of-Records-List---
 ```
 
+
+## Source Code
 
 You can see more about my project's source code [here](https://github.com/andrewlin808/Record-Database).

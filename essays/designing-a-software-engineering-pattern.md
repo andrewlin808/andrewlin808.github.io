@@ -10,7 +10,9 @@ labels:
   - Design Pattern
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/geometric-shapes.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/geometric-shapes.png" alt="">
+
+## Design Pattern Geometrically
 
 What do you think of when you hear th word "Geometry?"
 
@@ -20,6 +22,9 @@ Rectangles, circles, triangles, square, trapezium, convex polygon, parallelogram
 associated formulas and properties which has uses beyond their original purpose.
 
 Remember back in Calculus classes where sometimes the magical triangle and its formula or the pythagorean theorem you learned in middle/high school somehow made its way into the problem? That's how design patterns are like in software engineering.
+
+
+## The Designed Patterns
 
 Design patterns are a template to solve common problems that came to be recognized. They are like a Swiss Army Knife to use to open, not a can or a bottle of wine, but design problems that can be solved more structurally and efficiently through
 its application.

@@ -12,9 +12,13 @@ labels:
 summary: "A two-week military training at Maxwell Air Force Base, Alabama, designed to test cadets physically, mentally, and emotionally."
 ---
 
-Field Training (FT) is an integral component of the Air Force Reserve Officer Trianing Corps (AFROTC) curriculum. Cadets attend a two-week encampment at Maxwell AFB, Alabama over the summer typically between their Sophomore and Junior year. Cadets are evaluated and expected to perform well on a wide range of competencies which include: communication skills, wingman culture, team building, critical thinking, adaptability and decision-making. Each training days begins at 0400 and ends at 2000. 
+## Overview
 
-FT is a required compoment for General Military Course (GMC) cadets to advance into the Professional Officer Course (POC) in their Junior and Senior year, and to eventually commission into the United States Air Force or Space Force. Cadets will earn their 'Prop and Wings', an insignia denoting their leadership abilities and a sense of responsibilities that accompanies it.
+Field Training (FT) is an integral component of the Air Force Reserve Officer Training Corps (AFROTC) curriculum. Cadets attend a two-week encampment at Maxwell AFB, Alabama over the summer typically between their Sophomore and Junior year. Cadets 
+are evaluated and expected to perform well on a wide range of competencies which include: communication skills, wingman culture, team building, critical thinking, adaptability and decision-making. Each training days begins at 0400 and ends at 2000. 
+
+FT is a required component for General Military Course (GMC) cadets to advance into the Professional Officer Course (POC) in their Junior and Senior year, and to eventually commission into the United States Air Force or Space Force. Cadets will earn 
+their 'Prop and Wings', an insignia denoting their leadership abilities and a sense of responsibilities that accompanies it.
 
 I attended FT over the summer of 2023, MAX 5, from July 14 to July 31, ranked in the top fifth out of half a thousand cadets in the encampment, and earned my Prop and Wings. I was evaluated on the following competencies:
  - Initial Knowledge Assessment
@@ -25,12 +29,14 @@ I attended FT over the summer of 2023, MAX 5, from July 14 to July 31, ranked in
  - Flight Training Officer (FTO) Evaluation
  - Peer Ranking
 
+
+## Memorandum
+
 The following is a two-page reflection on my FT experience:
 
 <hr>
 
 ```
-...
 MEMORANDUM FOR RECORD
 
 SUBJECT: Field Training Reflection
@@ -94,21 +100,17 @@ when I sound off, I am intentful with each word I am projecting. Lastly, I learn
 both at Field Training and as an advice to myself for the future. Being myself tends to be when I
 interact with others the best, when I can perform the best, and when I can share my knowledge
 the best with others; it is when I truly am a leader.
-...
-
 ```
 <hr>
 
+## Pictures
+
 The following is a few pictures of me during my time at FT (Flight photo; Assault Course photos):
 
-<hr>
-
 <div class="text-center p-4">
-  <img width="400px" src="../img/ft-img/ft-img1.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img2.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img3.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img4.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/ft-img/ft-img5.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/ft-img/ft-img1.jpg" class="img-thumbnail"  alt="">
+  <img width="400px" src="../img/ft-img/ft-img2.jpg" class="img-thumbnail"  alt="">
+  <img width="400px" src="../img/ft-img/ft-img3.jpg" class="img-thumbnail"  alt="">
+  <img width="400px" src="../img/ft-img/ft-img4.jpg" class="img-thumbnail"  alt="">
+  <img width="400px" src="../img/ft-img/ft-img5.jpg" class="img-thumbnail"  alt="">
 </div>
-
-<hr>

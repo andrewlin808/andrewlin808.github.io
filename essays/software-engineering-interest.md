@@ -11,9 +11,9 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="250px" src="../img/sei-essay/sei-img1.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/sei-essay/sei-img2.jpg" class="img-thumbnail" >
-  <img width="250px" src="../img/sei-essay/sei-img3.jpg" class="img-thumbnail" >
+  <img width="250px" src="../img/sei-essay/sei-img1.jpg" class="img-thumbnail"  alt="">
+  <img width="300px" src="../img/sei-essay/sei-img2.jpg" class="img-thumbnail"  alt="">
+  <img width="250px" src="../img/sei-essay/sei-img3.jpg" class="img-thumbnail"  alt="">
 </div>
 
 ## What's Software Engineering?

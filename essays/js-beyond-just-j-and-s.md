@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/JS image.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/js.png" alt="">
 
 ## Java; // Without the Script
 
@@ -24,4 +24,6 @@ Coming back in my Junior year to program in ICS 314, Introduction to Software En
 
 What now, after the basics are reviewed? 
 
-Well, it continues with the Athletic Software Engineering (ASE) pedagogy for ICS 314 that involves more WODs and learning the full software engineering technology stack in a high-intensity, time-constrained, and stress-inducing environment. It is sure to challenge my time management with having to commit time to the Air Force Reserve Officer Training Corps (AFROTC). I look forward to learnign about functional programming and its powerfulness over my familiarization with Object-Oriented Programming, as well as truly feeling like I am a "programmer" or "computer scientist," at least to a higher level than what I currently feel. Nonetheless, as it is my career goal to do cyber in the military: the learning continues!
+Well, it continues with the Athletic Software Engineering (ASE) pedagogy for ICS 314 that involves more WODs and learning the full software engineering technology stack in a high-intensity, time-constrained, and stress-inducing environment. It is 
+sure to challenge my time management with having to commit time to the Air Force Reserve Officer Training Corps (AFROTC). I look forward to learning about functional programming and its powerfulness over my familiarization with Object-Oriented 
+Programming, as well as truly feeling like I am a "programmer" or "computer scientist," at least to a higher level than what I currently feel. Nonetheless, as it is my career goal to do cyber in the military: the learning continues!
