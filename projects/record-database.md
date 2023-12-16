@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICS 212 Database Project Image.jpg
+image: img/database-project.jpg
 title: "Record Database"
 date: 2022
 published: true
