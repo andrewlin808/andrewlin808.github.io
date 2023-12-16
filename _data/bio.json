@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://github.com/andrewlin808.png",
     "email": "andrewl2@hawaii.edu",
-    "phone": "206-403-6299",
+    "phone": "",
     "website": "https://andrewlin808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025, while commissioning in the Air Force as a Second Lieutenant.",
+    "summary": "I am studying for a B.S. in Computer Science with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2025 and commission in the Air Force.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "andrewlin808", "url": "http://github.com/andrewlin808" },
@@ -16,18 +16,16 @@
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Software Engineering" },
-    { "name": "Offensive/Defensive Cyber Operations" },
-    { "name": "Military" },
-    { "name": "Networking" }
+    { "name": "Cyber Operations" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "Java", "JavaScript", "C", "C++", "HTML", "CSS", "React", "MongoDB", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -38,6 +36,14 @@
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
+        "Software Engineering I",
+        "Security and Trust I",
+        "Algorithms",
+        "Linear Algebra and Differential Equations",
+        "Basic Conceptions of Computer Science",
+        "Program Structures",
+        "Discrete Mathematics I/II",
+        "Intro to Computer Science I/II"
       ]
     }
   ],
@@ -45,10 +51,17 @@
     {
       "company": "Air Force Reserve Officer Training Corps Detachment 175",
       "position": "Flight Director of Instructions",
-      "website": "",
-      "startDate": "2023",
-      "endDate": "Present",
+      "startDate": "August 2023",
+      "endDate": "December 2023",
       "summary": "Supervise and direct training of a flight. Develop Physical Training and Leadership Laboratory macro, Operational Plans and Operational Orders.Ensure that all training objectives are met by cadets in conjunction with Flight Commanders."
+    },
+    {
+      "company": "Air Force Office of Sponsored Research Nano-Analytics program",
+      "position": "Intern",
+      "website": "https://github.com/NSF-ALL-SPICE-Alliance/Nano",
+      "startDate": "2023-09-01",
+      "endDate": "2023-11-30",
+      "summary": "Conducted data analysis and data cleaning on the NanoE-Tox Database in support of nanomaterial research."
     },
     {
       "company": "Controlpoint Surveying, Inc",
@@ -56,12 +69,55 @@
       "website": "https://www.cpshawaii.net/",
       "startDate": "2022",
       "endDate": "2022",
-      "summary": "Assisted in topographic surveying projects other tasks; utilization of Point Cloud in RiSCAN PRO and Autodesk AutoCAD softwares.",
+      "summary": "Assisted in topographic surveying projects other tasks; utilization of Point Cloud in RiSCAN PRO and Autodesk AutoCAD software."
     }
   ],
-  "references": [
+  "volunteer": [
     {
-      "name": "Available upon request"
+      "organization": "Detachment 175 Honor Guard",
+      "position": "Color Guard Member, Drill Training Officer",
+      "startDate": "2022",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Arnold Air Society, Lt Col Horace Meek Hickam Squadron",
+      "website": "https://aas-sw.org/",
+      "position": "Financial Officer, Candidate Training Assistant",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "professional, honorary, service organization advocating the support of aerospace power"
+    }
+  ],
+  "awards": [
+    {
+      "title": "General Military Course (GMC) Cadet of the Month",
+      "date": "Oct 21, Sep 22, Jan 23",
+      "awarder": "Air Force ROTC Detachment 175"
+    },
+    {
+      "title": "GMC Cadet of the Semester",
+      "date": "Spring 2023",
+      "awarder": "Air Force ROTC Detachment 175"
+    },
+    {
+      "title": "Professional Officer Course (POC) Cadet of the Month",
+      "date": "October 2023",
+      "awarder": "Air Force ROTC Detachment 175"
+    },
+    {
+      "title": "Most Professionalism Award",
+      "date": "Fall 2022, Spring 2023",
+      "awarder": "Air Force ROTC Detachment 175"
+    },
+    {
+      "title": "Leadership in Character Scholarship",
+      "date": "2021",
+      "awarder": "Air Force Junior ROTC"
+    },
+    {
+      "title": "Seal of Biliteracy in Mandarin and Japanese",
+      "date": "2021",
+      "awarder": "Hawaii State Board of Education"
     }
   ]
 }
